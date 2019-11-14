@@ -36,7 +36,7 @@ This book references the publically-avialable textbook "An Introduction to Stati
 http://faculty.marshall.usc.edu/gareth-james/ISL/
 
 If you already have R and Rstudio installed then skip to "Download the data". 
-
+`Shouldn't this portion (and possibly the next) be before "Download the data" if it tells the user to skip to it?
 ## New users
 
 Install R:
